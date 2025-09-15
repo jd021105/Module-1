@@ -11,19 +11,20 @@ To write a Python program to print the following integer literals: 123, 456, 789
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222060121
+# Name- Kiruthika M
 # Write your code here
-
 num1 = 123
 num2 = 456
 num3 = 789
 
-print(num1)
-print(num2)
-print(num3)
+print(num1, num2, num3)
+
 
 ```
 ## OUTPUT
+<img width="622" height="293" alt="image" src="https://github.com/user-attachments/assets/53d9efc8-9fdd-4ad4-938f-83097923d030" />
+
 
 ## RESULT
+The program successfully prints the integer and float literals 10,3.14.
